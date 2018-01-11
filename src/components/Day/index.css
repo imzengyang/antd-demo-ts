@@ -1,0 +1,20 @@
+.Day{
+    text-align: left;
+    background: #fff;
+}
+.ant-fullcalendar-header{
+    display: none;
+}
+.day-title{
+    font-size: 64px;
+    margin-bottom: 1rem;
+}
+.week-day{
+    font-size: 16px;
+    text-align: left;
+}
+
+.year-month, .day-info{
+    font-size: 16px;
+    text-align: left;
+}
